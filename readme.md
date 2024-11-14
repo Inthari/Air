@@ -1,8 +1,9 @@
 # Air
+
 Air : Our Total Airline Passengers on 1961 ? :airplane:
 
 > [![Our Tech](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
 
-| Lab | Model |
-|:---:|:-----:|
-| 01 | Seasonal Arima Using (2, 1, 1) & (1, 1, 0, 12) |
+### :one: Lab 01
+
+> ![image](https://github.com/user-attachments/assets/24f883a2-447c-4e24-a982-719d7897b2d2)
